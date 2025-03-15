@@ -1,1 +1,1 @@
-# pogodabot
+# minebot
