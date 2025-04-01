@@ -16,7 +16,7 @@ config: Config = load_config()
 
 router: Router = Router()
 
-KEY = "3ae2871f54498debb79415e049e63cf4"
+KEY = "your key"
 
 
 @router.message(CommandStart())
